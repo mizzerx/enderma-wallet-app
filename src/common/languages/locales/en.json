@@ -1,0 +1,18 @@
+{
+  "walkthrough": {
+    "title_1": "100 days with\nno overpay",
+    "title_2": "Order your\nfirst phyical card",
+    "title_3": "Payments\ninfrastructure",
+    "subtitle_1": "We will deliver your\ncard for free",
+    "subtitle_2": "Get instant spending analyst, built in bugeting,\nand fee-free spending arboard",
+    "subtitle_3": "Fully integrated payments APIs to\nsupport any type of business",
+    "get_a_card": "Get a Card",
+    "get_start": "Get Start",
+    "welcome": "Welcome {{content}}",
+    "back": "Back",
+    "to_us": "to us,",
+    "hi_there": "Hello there, {{content}}",
+    "sign_to_continue": "sign in to continue",
+    "create_new_acc": "create new account"
+  }
+}
